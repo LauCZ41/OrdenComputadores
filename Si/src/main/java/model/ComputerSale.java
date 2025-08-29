@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class ComputersSale {
+public class ComputerSale {
 
     //relations
     private List<Computer> comps = new ArrayList<>();

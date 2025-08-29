@@ -1,5 +1,5 @@
 package ui;
-import model.ComputersSale;
+import model.ComputerSale;
 
 public class Main {
 
