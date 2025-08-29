@@ -57,6 +57,6 @@ public class Computer implements Comparable<Computer> {
 
     @Override
     public int compareTo(Computer otherComputer) {
-      return Double.compare(this.processingSpeed, otherComputer.getProcessingSpeed());
+        return Double.compare(this.processingSpeed, otherComputer.getProcessingSpeed());
     }
 }
